@@ -8,8 +8,6 @@ Welcome Guys! This repo consists of my code for Expense App made using Flutter, 
 - Using 3rd Party Packages
 - Images
   
-<br>
-<br>
 
 ![Image 1](./assets/images/1.png)
   
